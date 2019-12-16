@@ -15,23 +15,23 @@
 
 ### 1. Setting the research goal
 ### 2. Generate Data
-#### 2.1 Import Modules
-#### 2.2 Create Dates of working days for Internet Cafe by using datetime library
-#### 2.3 Create weekday for dates
-#### 2.4 Generate Number of Customers
-#### 2.5 Generate number of printouts
-#### 2.6 Generates Internet usage column and Total Income
+    #### 2.1 Import Modules
+    #### 2.2 Create Dates of working days for Internet Cafe by using datetime library
+    #### 2.3 Create weekday for dates
+    #### 2.4 Generate Number of Customers
+    #### 2.5 Generate number of printouts
+    #### 2.6 Generates Internet usage column and Total Income
 ### 3. Data Exploration
-#### 3.1 Descriptive summary statistics
-#### 3.2 Distribution
+    #### 3.1 Descriptive summary statistics
+    #### 3.2 Distribution
 - 3.2.1 Visual Normality Checks - Histogram plots
 - 3.2.2 Q-Q plot
 - 3.2.3 Kolmogorov-Smirnov test
-#### 3.3 Simple Linear Regression
+    #### 3.3 Simple Linear Regression
 ### 4. Conlcusions
 ### 5. References
 
-References:
+References:<br>
 [1] - https://stackoverflow.com/questions/29370057/select-dataframe-rows-between-two-dates<br>
 [2] - https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm<br>
 [3] - https://realpython.com/linear-regression-in-python/<br>
