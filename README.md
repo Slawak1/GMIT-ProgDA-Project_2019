@@ -32,18 +32,18 @@
 ### 5. References
 
 References:
-[1] - https://stackoverflow.com/questions/29370057/select-dataframe-rows-between-two-dates
-[2] - https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm
-[3] - https://realpython.com/linear-regression-in-python/
-[4] - https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/regression.ipynb
-[5] - https://en.m.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test
-[6] - https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781849513265/1/ch01lvl1sec17/plotting-stacked-bar-charts
-[7] - "Introducing Data Science" Davy Cielen, Arno D. B. Meysman, Mohamed Ali - Manning 2016
-[8] - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.skewnorm.html#scipy.stats.skewnorm
-[9] - https://seaborn.pydata.org/tutorial/regression.html
-[10] - https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html
-[11] - https://stackoverflow.com/a/53452793/11107506
-[12] - https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/simple-linear-regression.ipynb
-[13] - https://statisticsbyjim.com/regression/interpret-r-squared-regression/
-[14] - https://matplotlib.org/3.1.1/gallery/color/color_demo.html#sphx-glr-gallery-color-color-demo-py
-[15] - https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/
+[1] - https://stackoverflow.com/questions/29370057/select-dataframe-rows-between-two-dates<br>
+[2] - https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm<br>
+[3] - https://realpython.com/linear-regression-in-python/<br>
+[4] - https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/regression.ipynb<br>
+[5] - https://en.m.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test<br>
+[6] - https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781849513265/1/ch01lvl1sec17/plotting-stacked-bar-charts<br>
+[7] - "Introducing Data Science" Davy Cielen, Arno D. B. Meysman, Mohamed Ali - Manning 2016<br>
+[8] - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.skewnorm.html#scipy.stats.skewnorm<br>
+[9] - https://seaborn.pydata.org/tutorial/regression.html<br>
+[10] - https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html<br>
+[11] - https://stackoverflow.com/a/53452793/11107506<br>
+[12] - https://github.com/ianmcloughlin/jupyter-teaching-notebooks/blob/master/simple-linear-regression.ipynb<br>
+[13] - https://statisticsbyjim.com/regression/interpret-r-squared-regression/<br>
+[14] - https://matplotlib.org/3.1.1/gallery/color/color_demo.html#sphx-glr-gallery-color-color-demo-py<br>
+[15] - https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/<br>
